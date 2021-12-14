@@ -1,0 +1,10 @@
+__pycache__/
+build
+dist
+venv
+.env
+.out
+*.pyc
+*.swp
+models
+.config
